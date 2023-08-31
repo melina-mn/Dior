@@ -1,0 +1,39 @@
+
+h1{
+    color: black;
+    text-align: center;
+    font-weight: 900;
+    font-style: initial;
+}
+#first-sec{
+    color: violet;
+}
+#sec-sec{
+    color: purple;
+}
+#third-sec{
+    color: blue;
+}
+p{
+    color: gray;
+}
+.two, .three, .last{
+    color:black;
+
+}
+img{
+    border: 5px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(0, 0, 0, 0.85);
+}
+footer{
+    color: gray;
+}
+body{
+    background-image: url(../images/wall.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+background-position: center;
+}
